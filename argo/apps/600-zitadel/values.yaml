@@ -19,7 +19,7 @@ zitadel:
               Verified: true
     configSecretName: zitadel-credentials
     configSecretKey: config.yaml
-    dbSslCaCrtSecret: pg-certificate
+#    dbSslCaCrtSecret: pg-certificate
   ingress:
     enabled: true
     className: traefik
