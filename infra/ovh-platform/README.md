@@ -10,3 +10,9 @@ export OVH_APPLICATION_SECRET=
 
 2. Adjust your project id in `k8s/vars.tf`
 3. run `tf apply` in `k8s`
+
+
+
+
+
+[//]: # (- Generate a `jwt_token` in the [Zitadel UI]&#40;https://zitadel.scaleway.playground.dataminded.cloud/ui/console/org&#41; for programmatic access)
